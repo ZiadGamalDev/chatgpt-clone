@@ -1,13 +1,34 @@
-# ChatGPT Clone
+# ChatGPT Clone – AI Chat App 🤖💬
 
-A simple ChatGPT clone built using Next.js and NestJS.
+This is the main root repo that links both frontend and backend of the ChatGPT clone. It mimics OpenAI's ChatGPT flow using Next.js (Frontend) and NestJS (Backend) with OpenAI API integration.
 
-## Features
+## 🔗 Sub-Repos
 
-- Chat interface for AI conversations.
-- Backend powered by NestJS.
-- Frontend built with Next.js for server-side rendering.
-- API integration for AI responses.
+| Repo | Description |
+|------|-------------|
+| [chatgpt-clone-backend](https://github.com/ZiadGamalDev/chatgpt-clone-backend) | NestJS backend that handles OpenAI API requests |
+| [chatgpt-clone-frontend](https://github.com/ZiadGamalDev/chatgpt-clone-frontend) | Next.js frontend with modern UI for chatting |
+
+## 🧠 Features
+
+- Chat interface for AI conversations
+- User input chat box (no login needed)
+- Backend powered by NestJS
+- Frontend built with Next.js for server-side rendering
+- Sends real-time requests to OpenAI's GPT
+- Displays AI responses smoothly
+- Serverless-friendly frontend deployment
+- API integration for AI responses
+
+## 🚀 Deployed Links
+
+- Frontend: [chatgpt-clone-frontend](https://chatgpt-clone-frontend-alpha.vercel.app/)
+- Backend: [chatgpt-clone-backend](https://chatgpt-clone-backend-production.up.railway.app/)
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Next.js 14, TypeScript, TailwindCSS
+- **Backend:** NestJS, OpenAI SDK
 
 ## Installation
 
