@@ -2,6 +2,8 @@
 
 This is the main root repo that links both frontend and backend of the ChatGPT clone. It mimics OpenAI's ChatGPT flow using Next.js (Frontend) and NestJS (Backend) with OpenAI API integration.
 
+![ChatGPT Clone Demo](screenshots/chatbot.png)
+
 ## 🔗 Sub-Repos
 
 | Repo | Description |
