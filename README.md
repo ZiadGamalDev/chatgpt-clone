@@ -25,7 +25,7 @@ This is the main guide repository that provides documentation and links to the C
 ## 🚀 Deployed Links
 
 - Frontend: [chatgpt-clone-frontend](https://chatgpt-clone-frontend-alpha.vercel.app/)
-- Backend: [chatgpt-clone-backend](https://chatgpt-clone-backend-production.up.railway.app/)
+- Backend: [chatgpt-clone-backend](https://chatgpt-clone-backend.dinamo-app.com/)
 
 ## 🛠️ Tech Stack
 
